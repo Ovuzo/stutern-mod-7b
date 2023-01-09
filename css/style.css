@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+:root{
+    --blue:#0000ff;
+    --red:#ff0000;
+    --green:#00ff00;
+    --yellow:#ffff00;
+}
+
+/* UTILITY CLASS */
+.container{
+    width: 80%;
+    margin: auto;
+}
